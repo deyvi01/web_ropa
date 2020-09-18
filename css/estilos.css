@@ -85,7 +85,8 @@ h1, h2, h3, h4, h5, h6 {
 /* ------------------------- */
 .header {
     background: url("../media/bg-imagen.jpeg");
-    background-position:center;
+    /* background-position:center; */
+    /* height: ; */
 }
 
 .header .contenedor-titulo {
